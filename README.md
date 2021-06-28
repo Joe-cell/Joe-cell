@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Joe-cell
+- 👀 I’m interested in EE
+- 🌱 I’m currently learning STM32
